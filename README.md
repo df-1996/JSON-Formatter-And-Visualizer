@@ -10,6 +10,9 @@ This app is built with React and D3 and bootstrapped with Create React App.
 
 Try it here: https://json-formatter-and-visualizer.web.app/
 
+Example:
+![](./public/json-formatter-and-visualizer.web.app.png)
+
 ## Features
 
 - Live JSON parse with inline error feedback
