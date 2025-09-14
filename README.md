@@ -8,6 +8,8 @@ Paste any JSON and instantly:
 
 This app is built with React and D3 and bootstrapped with Create React App.
 
+Try it here: https://json-formatter-and-visualizer.web.app/
+
 ## Features
 
 - Live JSON parse with inline error feedback
